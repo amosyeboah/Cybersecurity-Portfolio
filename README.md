@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio. This project is part of my journey throug
 I’m driven by a strong desire to protect people and digital assets from cyber threats. There’s a deep sense of purpose in working to secure systems and help individuals and organizations stay safe in an increasingly digital world. Cybersecurity allows me to blend technology with meaningful impact.
 
 🧑‍💻 My Career Goals
-My starting point is to become a Security Operations Center (SOC) Analyst, where I’ll monitor, detect, and respond to cyber incidents. Over time, I aim to grow through continuous learning, certifications, and hands-on experience — ultimately becoming a top-level cybersecurity expert making strategic contributions to the field.
+My starting point is to become a Security Operations Center (SOC) Analyst, where I’ll monitor, detect, and respond to cyber incidents. Over time, I aim to grow through continuous learning, certifications, and hands-on experience — ultimately becoming a top-level cybersecurity expert as Chief Information Security Officer (CISO) Leading and managing an organization's entire cybersecurity strategy.
 
 🧠 Key Concepts I’ve Learned So Far
 Through the certificate program, I’ve developed a strong foundation in cybersecurity principles, including:
@@ -30,7 +30,5 @@ Next, I’ll be working on:
 ✅ Risk Assessment Report – Identifying potential risks and their impact
 
 🧠 Threat Modeling Diagram – Visualizing and mitigating threats
-
-These artifacts will be part of this portfolio to demonstrate my growing practical skills.
 
 🔐 This portfolio is a living document — as I learn, I’ll keep updating it with new insights, projects, and reflections. Thank you for visiting!
